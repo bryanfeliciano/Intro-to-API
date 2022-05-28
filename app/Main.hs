@@ -1,7 +1,8 @@
 module Main where
 
+import Data.Text 
 import Network.Wreq
-import Data.Text (Text)
+
 
 import Lib
 
