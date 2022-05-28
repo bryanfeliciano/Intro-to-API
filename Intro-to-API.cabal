@@ -44,6 +44,7 @@ executable Intro-to-API-exe
   build-depends:
       Intro-to-API
     , base >=4.7 && <5
+    , text
     , wreq >=0.5.3.3
   default-language: Haskell2010
 

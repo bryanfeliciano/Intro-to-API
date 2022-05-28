@@ -35,6 +35,7 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - Intro-to-API
+    - text
     - wreq >= 0.5.3.3
 
 tests:
